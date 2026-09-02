@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2EBF7C&center=true&vCenter=true&width=560&lines=Full-stack+dev+building+web+apps;Next.js+%2B+Supabase+%2B+React;Based+in+Italy" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2EBF7C&center=true&vCenter=true&width=560&lines=dev+building+web+apps;Next.js+%2B+Supabase+%2B+React;Based+in+Italy" />
 </p>
 
 - 🍣 Right now I'm building **Sushi Battle** — track sushi pieces during all-you-can-eat nights, live leaderboard, shareable award badges at the end
