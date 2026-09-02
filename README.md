@@ -4,10 +4,9 @@ Full-stack dev building web apps and business sites
 
 Based in Italy ![Italy](https://flagcdn.com/16x12/it.png)
 
-- 🍣 Working on **Sushi Battle** — a mobile web app for tracking sushi orders at all-you-can-eat nights, with a real-time leaderboard and shareable award badges
-- 🌐 Also building Next.js sites for local businesses and automation tools (private repos)
-- 🛠️ Stack: TypeScript, React, Next.js, Supabase (Postgres + Auth + RLS), Tailwind CSS, Python, Flutter
-- 🧪 I write tests for the logic that matters (Vitest)
+- 🍣 Right now I'm building **Sushi Battle** — track sushi pieces during all-you-can-eat nights, live leaderboard, shareable award badges at the end
+- 🌐 Also make sites for local businesses and mess with automation on the side
+- 🛠️ Daily drivers: TypeScript, React, Next.js, Supabase, Python, Flutter
 
 ## 🔧 Tech Stack
 
