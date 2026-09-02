@@ -12,14 +12,9 @@
 
 ## 🔧 Tech Stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,supabase,postgres,tailwind,python,flutter,vitest" />
+</p>
 
 ## 🚀 Featured Project
 
@@ -29,3 +24,7 @@ A mobile-first web app for tracking sushi orders during all-you-can-eat nights: 
 🔗 [Live demo](https://all-you-can-fight.vercel.app/)
 
 `Next.js` · `Supabase Realtime` · `Postgres` · `TypeScript` · `PWA`
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
+</p>
