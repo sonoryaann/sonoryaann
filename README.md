@@ -2,9 +2,9 @@
 
 Full-stack dev building web apps and business sites
 
-Based in Italy
+Based in Italy ![Italy](https://flagcdn.com/16x12/it.png)
 
-- 🎮 Working on **AllYouCanFight** — a browser game with real-time ranked leaderboards
+- 🍣 Working on **Sushi Battle** — a mobile web app for tracking sushi orders at all-you-can-eat nights, with a real-time leaderboard and shareable award badges
 - 🌐 Also building Next.js sites for local businesses and automation tools (private repos)
 - 🛠️ Stack: TypeScript, React, Next.js, Supabase (Postgres + Auth + RLS), Tailwind CSS, Python, Flutter
 - 🧪 I write tests for the logic that matters (Vitest)
@@ -22,12 +22,7 @@ Based in Italy
 
 ## 🚀 Featured Project
 
-### [AllYouCanFight](https://github.com/sonoryaann/AllYouCanFight)
-A browser-based fighting/arcade game with a ranked mode: global leaderboards, score finalization backed by Postgres views, and account-gated ranked play.
+### [AllYouCanFight](https://github.com/sonoryaann/AllYouCanFight) — Sushi Battle
+A mobile-first web app for tracking sushi orders during all-you-can-eat nights: count pieces as you eat, watch a real-time leaderboard update, and get a shareable award badge at the end (e.g. "Re del Salmone", "Divoratore di Sashimi").
 
-`Next.js` · `Supabase` · `Postgres RLS` · `TypeScript`
-
-## 📊 GitHub Stats
-
-![sonoryaann's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonoryaann&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonoryaann&layout=compact&hide_border=true)
+`Next.js` · `Supabase Realtime` · `Postgres` · `TypeScript` · `PWA`
