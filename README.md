@@ -1,8 +1,10 @@
-# Hi, I'm ryan 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20ryan&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-Full-stack dev building web apps and business sites
-
-Based in Italy ![Italy](https://flagcdn.com/16x12/it.png)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1200&color=2EBF7C&center=true&vCenter=true&width=560&lines=Full-stack+dev+building+web+apps;Next.js+%2B+Supabase+%2B+React;Based+in+Italy" />
+</p>
 
 - 🍣 Right now I'm building **Sushi Battle** — track sushi pieces during all-you-can-eat nights, live leaderboard, shareable award badges at the end
 - 🌐 Also make sites for local businesses and mess with automation on the side
