@@ -24,4 +24,6 @@ Based in Italy ![Italy](https://flagcdn.com/16x12/it.png)
 ### [AllYouCanFight](https://github.com/sonoryaann/AllYouCanFight) — Sushi Battle
 A mobile-first web app for tracking sushi orders during all-you-can-eat nights: count pieces as you eat, watch a real-time leaderboard update, and get a shareable award badge at the end (e.g. "Re del Salmone", "Divoratore di Sashimi").
 
+🔗 [Live demo](https://all-you-can-fight.vercel.app/)
+
 `Next.js` · `Supabase Realtime` · `Postgres` · `TypeScript` · `PWA`
